@@ -9,6 +9,7 @@ My Personal Profile Page.
 
 * git clone https://github.com/kislay2004/kislay2004.github.io
 * git config user.name "Kislay Kishore"
+* git config user.name "kislay.2004@gmail.com"
 * git add --all
 * git commit -m "Initial commit"
 * git push -u origin master
@@ -16,5 +17,6 @@ My Personal Profile Page.
 ##Going forward:
 
 * git status
-* git add <filename.extension>
-* git commit -m "<Commit Messsage>"
+* git add filename
+* git commit -m "Commit Messsage"
+* git push -u origin master
